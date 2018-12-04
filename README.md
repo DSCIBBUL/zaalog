@@ -1,3 +1,2 @@
 # zaalog
-Login Page
-CSS Animation
+This is a Login Page with CSS Animation
